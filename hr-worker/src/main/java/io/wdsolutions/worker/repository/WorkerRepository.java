@@ -7,5 +7,4 @@ import io.wdsolutions.worker.entities.Worker;
 
 @Repository
 public interface WorkerRepository extends JpaRepository<Worker, Long> {
-
 }
